@@ -14,7 +14,10 @@
 	"price": {
 		"amount": 1000000000000,
 		"currency": "galactic credits"
-	}
+	},
+	"suhendra": "value from suhendra",
 	"wim" : "This is myname",
-	"abilities": "teleport",
+	"abilities": "teleport"
 	"HP": 1000
+}
+
