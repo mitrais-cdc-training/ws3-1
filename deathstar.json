@@ -12,7 +12,8 @@
 		"height": 120
         },
 	"price": {
-    		"amount": 1000000000000,
+		"amount": 1000000000000,
 		"currency": "galactic credits"
-	}
+	},
+	"abilities": "teleport"
 }
