@@ -12,8 +12,12 @@
 		"height": 120
         },
 	"price": {
-    		"amount": 1000000000000,
+		"amount": 1000000000000,
 		"currency": "galactic credits"
 	},
-	"ngurah": "some value"
+	"ngurah": "some value",
+	"wim" : "This is myname",
+	"abilities": "teleport"
+
+>>>>>>> fcc63d67b1e5b158a3e96c614d42e7a87cc11e7d
 }
