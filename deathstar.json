@@ -12,7 +12,12 @@
 		"height": 120
         },
 	"price": {
-    		"amount": 1000000000000,
+		"amount": 1000000000000,
 		"currency": "galactic credits"
-	}
+	},
+<<<<<<< HEAD
+	"This JSON": "was edited by Arifm!!!!!!!!!!!!"
+=======
+	"abilities": "teleport"
+>>>>>>> 3ac7c658d2052c9ffa6069d53e8027fc5b3ac898
 }
