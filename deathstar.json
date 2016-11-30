@@ -15,6 +15,9 @@
     		"amount": 1000000000000,
 		"currency": "galactic credits"
 	},
+	"author": {
+		"Fajar"
+	}
 	"budianto":"test",
 	"suhendra": "value"
 }
