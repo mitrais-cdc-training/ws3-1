@@ -12,7 +12,12 @@
 		"height": 120
         },
 	"price": {
-    		"amount": 1000000000000,
+		"amount": 1000000000000,
 		"currency": "galactic credits"
-	}
+	},
+	"suhendra": "value from suhendra",
+	"wim" : "This is myname",
+	"abilities": "teleport"
+	"HP": 1000
 }
+
